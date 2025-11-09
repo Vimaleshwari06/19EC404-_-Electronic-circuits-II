@@ -13,13 +13,18 @@
 # With Feedback:
 <img width="787" height="613" alt="image" src="https://github.com/user-attachments/assets/ce6df7b4-b76c-4d4a-b54d-f49f67a6edc8" />
 
+![WhatsApp Image 2025-11-09 at 19 46 01_b3a6d643](https://github.com/user-attachments/assets/bdc9596c-63e3-49f1-95e9-f1bdea246d48)
+
 # Tabulation
+![WhatsApp Image 2025-11-09 at 19 46 03_8943a13f](https://github.com/user-attachments/assets/8bfcd926-604f-4329-9923-30c47e350a83)
 
 
 # Graph
+![WhatsApp Image 2025-11-09 at 19 46 06_30dbc81f](https://github.com/user-attachments/assets/caa3d8e7-8684-4a7e-8942-24440536b783)
 
 
 # Sample images 
+<img width="1481" height="835" alt="image" src="https://github.com/user-attachments/assets/527c6337-bc61-4bf6-9a79-01de21e96ca8" />
 
 
 ### **Result**
@@ -27,11 +32,11 @@
 Thus the current shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | f1=470Hz| f1"= 430Hz|
+| 2 | Upper cut-off frequency | f2=220khz | f2"=1.1Mhz |
+| 3 | Bandwidth | ( BW = fh - fl =219.53khz ) | ( BW = f'h - f'l = 1.09Mhz) |
+| 4 | Mid-band Gain | ( A{v(mid)} =8.40 ) | ( A'{v(mid)} = 3.35) |
+| 5 | Gain at half power point | 5.93 | 2.36 |
 
 ---
 
