@@ -1,5 +1,5 @@
 ## Exp. No. 1(b)
-**Date:**  
+**Date:** 25-08-2025 
 
 ## FREQUECNY RESPONSE OF VOLTAGE SHUNT FEEDBACK AMPLIFIER
 <img width="822" height="889" alt="image" src="https://github.com/user-attachments/assets/a1f70018-04e2-4b1d-8a91-695ddb6af202" />
@@ -26,6 +26,7 @@
 
 
 # Sample images 
+<img width="469" height="832" alt="Screenshot 2025-11-09 180731" src="https://github.com/user-attachments/assets/73b545fb-42df-4190-b127-792439f15bf1" />
 
 
 ### **Result**
