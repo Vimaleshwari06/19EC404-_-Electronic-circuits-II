@@ -1,5 +1,5 @@
 ## Exp. No. 3(a)
-**Date:**  
+**Date:** 29-09-2025 
 
 ## DESIGN OF HARTLEY OSCILLATOR
 <img width="999" height="444" alt="image" src="https://github.com/user-attachments/assets/6e423083-e598-4fbb-b42a-bcb4f4608640" />
@@ -25,6 +25,8 @@
 
 
 # Sample images 
+
+<img width="1486" height="833" alt="Screenshot 2025-11-09 181700" src="https://github.com/user-attachments/assets/7f480ce2-8461-44be-9fdf-af39ade50e77" />
 
 
 # Result
