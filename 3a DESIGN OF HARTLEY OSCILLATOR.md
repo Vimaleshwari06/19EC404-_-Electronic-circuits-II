@@ -20,7 +20,7 @@
 |------------|--------------|----------------------|------------------------|
 |     9.6V   |     10ms     |       50.04Hz        |        50Hz            |
 
-9.6V	10ms	50.04Hz	50Hz
+
 # Graph
 ![WhatsApp Image 2025-11-10 at 09 07 42_438e6994](https://github.com/user-attachments/assets/c2a04916-2a0b-4ecd-b88e-61042964a2ef)
 
